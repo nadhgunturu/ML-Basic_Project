@@ -1,2 +1,3 @@
 # ML-Predict_Gobal_Temperature
-For Predict_Global_Temperature  open .ipynb file
+please open notebook.ipynb file
+
