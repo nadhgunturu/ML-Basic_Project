@@ -1,3 +1,3 @@
 # ML-Predict_Gobal_Temperature
-please open notebook.ipynb file
+Hit on notebook.ipynb file
 
