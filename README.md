@@ -1,1 +1,1 @@
-Predict_Global_Temperature
+Predict Global Temperature
